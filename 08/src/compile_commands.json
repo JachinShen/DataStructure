@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/jachinshen/Projects/Cpp/DataStructure/08/build",
+  "command": "/usr/bin/c++    -I/home/jachinshen/Projects/Cpp/DataStructure/08/include   -O0 -Wall -g -ggdb   -o CMakeFiles/1039.dir/src/1039.cpp.o -c /home/jachinshen/Projects/Cpp/DataStructure/08/src/1039.cpp",
+  "file": "/home/jachinshen/Projects/Cpp/DataStructure/08/src/1039.cpp"
+},
+{
+  "directory": "/home/jachinshen/Projects/Cpp/DataStructure/08/build",
+  "command": "/usr/bin/c++    -I/home/jachinshen/Projects/Cpp/DataStructure/08/include   -O0 -Wall -g -ggdb   -o CMakeFiles/1048.dir/src/1048.cpp.o -c /home/jachinshen/Projects/Cpp/DataStructure/08/src/1048.cpp",
+  "file": "/home/jachinshen/Projects/Cpp/DataStructure/08/src/1048.cpp"
+},
+{
+  "directory": "/home/jachinshen/Projects/Cpp/DataStructure/08/build",
+  "command": "/usr/bin/c++    -I/home/jachinshen/Projects/Cpp/DataStructure/08/include   -O0 -Wall -g -ggdb   -o CMakeFiles/1221.dir/src/1221.cpp.o -c /home/jachinshen/Projects/Cpp/DataStructure/08/src/1221.cpp",
+  "file": "/home/jachinshen/Projects/Cpp/DataStructure/08/src/1221.cpp"
+}
+]

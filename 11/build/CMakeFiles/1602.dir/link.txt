@@ -1,0 +1,1 @@
+/usr/bin/c++    -O0 -Wall -g -ggdb   CMakeFiles/1602.dir/src/1602.cpp.o  -o 1602 -rdynamic 

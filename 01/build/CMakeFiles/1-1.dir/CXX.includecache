@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jachinshen/Projects/Cpp/DataStructure/01/src/1-1.cpp
+iostream
+-
+stdlib.h
+-
+sys/time.h
+-
+

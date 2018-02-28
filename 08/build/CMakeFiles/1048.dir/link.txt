@@ -1,0 +1,1 @@
+/usr/bin/c++    -O0 -Wall -g -ggdb   CMakeFiles/1048.dir/src/1048.cpp.o  -o 1048 -rdynamic 

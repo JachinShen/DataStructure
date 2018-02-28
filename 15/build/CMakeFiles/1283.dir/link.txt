@@ -1,0 +1,1 @@
+/usr/bin/c++    -O0 -Wall -g -ggdb   CMakeFiles/1283.dir/src/1283.cpp.o  -o 1283 -rdynamic 

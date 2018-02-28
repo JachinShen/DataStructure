@@ -1,0 +1,1 @@
+/usr/bin/c++    -O0 -Wall -g -ggdb   CMakeFiles/4009.dir/src/4009.cpp.o  -o 4009 -rdynamic 

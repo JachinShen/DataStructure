@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/jachinshen/Projects/Cpp/DataStructure/13/build",
+  "command": "/usr/bin/c++    -I/home/jachinshen/Projects/Cpp/DataStructure/13/include   -O0 -Wall -g -ggdb   -o CMakeFiles/3022.dir/src/3022.cpp.o -c /home/jachinshen/Projects/Cpp/DataStructure/13/src/3022.cpp",
+  "file": "/home/jachinshen/Projects/Cpp/DataStructure/13/src/3022.cpp"
+},
+{
+  "directory": "/home/jachinshen/Projects/Cpp/DataStructure/13/build",
+  "command": "/usr/bin/c++    -I/home/jachinshen/Projects/Cpp/DataStructure/13/include   -O0 -Wall -g -ggdb   -o CMakeFiles/1994.dir/src/1994.cpp.o -c /home/jachinshen/Projects/Cpp/DataStructure/13/src/1994.cpp",
+  "file": "/home/jachinshen/Projects/Cpp/DataStructure/13/src/1994.cpp"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++    -O0 -Wall -g -ggdb   CMakeFiles/1999.dir/src/1999.cpp.o  -o 1999 -rdynamic 

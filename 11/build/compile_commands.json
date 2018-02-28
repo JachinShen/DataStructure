@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/jachinshen/Projects/Cpp/DataStructure/11/build",
+  "command": "/usr/bin/c++    -I/home/jachinshen/Projects/Cpp/DataStructure/11/include   -O0 -Wall -g -ggdb   -o CMakeFiles/1069.dir/src/1069.cpp.o -c /home/jachinshen/Projects/Cpp/DataStructure/11/src/1069.cpp",
+  "file": "/home/jachinshen/Projects/Cpp/DataStructure/11/src/1069.cpp"
+},
+{
+  "directory": "/home/jachinshen/Projects/Cpp/DataStructure/11/build",
+  "command": "/usr/bin/c++    -I/home/jachinshen/Projects/Cpp/DataStructure/11/include   -O0 -Wall -g -ggdb   -o CMakeFiles/1272.dir/src/1272.cpp.o -c /home/jachinshen/Projects/Cpp/DataStructure/11/src/1272.cpp",
+  "file": "/home/jachinshen/Projects/Cpp/DataStructure/11/src/1272.cpp"
+},
+{
+  "directory": "/home/jachinshen/Projects/Cpp/DataStructure/11/build",
+  "command": "/usr/bin/c++    -I/home/jachinshen/Projects/Cpp/DataStructure/11/include   -O0 -Wall -g -ggdb   -o CMakeFiles/1602.dir/src/1602.cpp.o -c /home/jachinshen/Projects/Cpp/DataStructure/11/src/1602.cpp",
+  "file": "/home/jachinshen/Projects/Cpp/DataStructure/11/src/1602.cpp"
+},
+{
+  "directory": "/home/jachinshen/Projects/Cpp/DataStructure/11/build",
+  "command": "/usr/bin/c++    -I/home/jachinshen/Projects/Cpp/DataStructure/11/include   -O0 -Wall -g -ggdb   -o CMakeFiles/3002.dir/src/3002.cpp.o -c /home/jachinshen/Projects/Cpp/DataStructure/11/src/3002.cpp",
+  "file": "/home/jachinshen/Projects/Cpp/DataStructure/11/src/3002.cpp"
+}
+]

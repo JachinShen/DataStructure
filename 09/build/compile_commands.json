@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/jachinshen/Projects/Cpp/DataStructure/09/build",
+  "command": "/usr/bin/c++    -I/home/jachinshen/Projects/Cpp/DataStructure/09/include   -O0 -Wall -g -ggdb   -o CMakeFiles/1216.dir/src/1216.cpp.o -c /home/jachinshen/Projects/Cpp/DataStructure/09/src/1216.cpp",
+  "file": "/home/jachinshen/Projects/Cpp/DataStructure/09/src/1216.cpp"
+},
+{
+  "directory": "/home/jachinshen/Projects/Cpp/DataStructure/09/build",
+  "command": "/usr/bin/c++    -I/home/jachinshen/Projects/Cpp/DataStructure/09/include   -O0 -Wall -g -ggdb   -o CMakeFiles/1588.dir/src/1588.cpp.o -c /home/jachinshen/Projects/Cpp/DataStructure/09/src/1588.cpp",
+  "file": "/home/jachinshen/Projects/Cpp/DataStructure/09/src/1588.cpp"
+},
+{
+  "directory": "/home/jachinshen/Projects/Cpp/DataStructure/09/build",
+  "command": "/usr/bin/c++    -I/home/jachinshen/Projects/Cpp/DataStructure/09/include   -O0 -Wall -g -ggdb   -o CMakeFiles/4012.dir/src/4012.cpp.o -c /home/jachinshen/Projects/Cpp/DataStructure/09/src/4012.cpp",
+  "file": "/home/jachinshen/Projects/Cpp/DataStructure/09/src/4012.cpp"
+}
+]

@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/jachinshen/Projects/Cpp/DataStructure/14/build",
+  "command": "/usr/bin/c++    -I/home/jachinshen/Projects/Cpp/DataStructure/14/include   -O0 -Wall -g -ggdb   -o CMakeFiles/1635.dir/src/1635_new.cpp.o -c /home/jachinshen/Projects/Cpp/DataStructure/14/src/1635_new.cpp",
+  "file": "/home/jachinshen/Projects/Cpp/DataStructure/14/src/1635_new.cpp"
+},
+{
+  "directory": "/home/jachinshen/Projects/Cpp/DataStructure/14/build",
+  "command": "/usr/bin/c++    -I/home/jachinshen/Projects/Cpp/DataStructure/14/include   -O0 -Wall -g -ggdb   -o CMakeFiles/1999.dir/src/1999.cpp.o -c /home/jachinshen/Projects/Cpp/DataStructure/14/src/1999.cpp",
+  "file": "/home/jachinshen/Projects/Cpp/DataStructure/14/src/1999.cpp"
+},
+{
+  "directory": "/home/jachinshen/Projects/Cpp/DataStructure/14/build",
+  "command": "/usr/bin/c++    -I/home/jachinshen/Projects/Cpp/DataStructure/14/include   -O0 -Wall -g -ggdb   -o CMakeFiles/1593.dir/src/1593.cpp.o -c /home/jachinshen/Projects/Cpp/DataStructure/14/src/1593.cpp",
+  "file": "/home/jachinshen/Projects/Cpp/DataStructure/14/src/1593.cpp"
+}
+]

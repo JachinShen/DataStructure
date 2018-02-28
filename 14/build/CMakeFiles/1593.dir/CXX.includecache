@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jachinshen/Projects/Cpp/DataStructure/14/src/1593.cpp
+iostream
+-
+memory.h
+/home/jachinshen/Projects/Cpp/DataStructure/14/src/memory.h
+stdio.h
+/home/jachinshen/Projects/Cpp/DataStructure/14/src/stdio.h
+

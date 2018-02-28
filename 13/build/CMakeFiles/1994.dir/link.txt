@@ -1,0 +1,1 @@
+/usr/bin/c++    -O0 -Wall -g -ggdb   CMakeFiles/1994.dir/src/1994.cpp.o  -o 1994 -rdynamic 

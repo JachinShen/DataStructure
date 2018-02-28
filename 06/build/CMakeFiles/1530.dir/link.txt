@@ -1,0 +1,1 @@
+/usr/bin/c++    -O0 -Wall -g -ggdb   CMakeFiles/1530.dir/src/1530.cpp.o  -o 1530 -rdynamic 
